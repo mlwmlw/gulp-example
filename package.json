@@ -1,0 +1,27 @@
+{
+  "name": "gulp-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mlwmlw/gulp-example.git"
+  },
+  "author": "mlwmlw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlwmlw/gulp-example/issues"
+  },
+  "homepage": "https://github.com/mlwmlw/gulp-example",
+  "devDependencies": {
+    "jshint-stylish": "~0.1.5",
+    "gulp-stylus": "0.0.13",
+    "gulp-livereload": "~1.2.0",
+    "gulp": "~3.5.5",
+    "gulp-jshint": "~1.5.0",
+    "ecstatic": "~0.4.13"
+  }
+}
